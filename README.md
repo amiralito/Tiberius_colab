@@ -7,7 +7,7 @@ Point it at a genome (or a whole folder of them) and it returns per-genome GFF3 
 protein FASTA, a prediction stats table, and BUSCO scores, all from a single notebook with
 form-field inputs.
 
-[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/<your-username>/<your-repo>/blob/main/Tiberius_gene_prediction.ipynb)
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/amiralito/Tiberius_colab/blob/main/Tiberius_gene_prediction.ipynb)
 
 ## Pipeline
 
